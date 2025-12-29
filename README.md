@@ -27,6 +27,6 @@ Everything I learn is tested in practical labs. Here is what I am operating righ
 ---
 
 ### 📫 Contact
-* [LinkedIn](SEU_LINK_AQUI)
+* [LinkedIn](https://www.linkedin.com/in/weyller-luiz/)
 
 *"Documentation is love letter that you write to your future self."*
